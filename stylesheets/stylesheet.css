@@ -54,11 +54,11 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  background:url (https://i.imgur.com/dJxneM0.jpg);
+  background:url(https://i.imgur.com/dJxneM0.jpg);
   background-size:cover;
   background-position:center center;
   background-attachment:fixed;
-  /* text-align: center; */
+  text-align: center;
     /*color: #fff; */
   /* background-color: #159957; */
   /* background-image: linear-gradient(120deg, #155799, #159957); } */
