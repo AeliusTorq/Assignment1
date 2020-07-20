@@ -54,10 +54,10 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  background:url (https://raw.githubusercontent.com/AeliusTorq/James-Reynolds/master/dJxneM0.jpg)
+  background:url (https://i.imgur.com/dJxneM0.jpg);
   background-size:cover;
-  background-position:center;
-  background-attachment:fixed; }
+  background-position:center center;
+  background-attachment:fixed;
   /* text-align: center; */
     /*color: #fff; */
   /* background-color: #159957; */
